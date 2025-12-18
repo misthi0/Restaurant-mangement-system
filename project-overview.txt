@@ -1,0 +1,54 @@
+🍽️ 1. General Overview
+Prompt idea:
+“Create a restaurant management system website that allows restaurant owners to manage daily operations including reservations, orders, billing, menu updates, and inventory.”
+👥 2. User Roles
+Include distinct dashboards or permissions for:
+Admin/Manager: Full control (analytics, reports, users, inventory, menu)
+Staff (Waiters/Chefs/Cashiers): Order handling, billing, kitchen updates
+Customers: View menu, make reservations, place online orders
+📋 3. Core Modules
+Here’s what you can specify in your prompt:
+🧾 A. Menu Management
+Add, update, or remove food items
+Categorize menu (starters, main course, desserts, drinks)
+Add images, descriptions, prices, and availability
+Special offers / discounts
+🍴 B. Order Management
+Take dine-in, takeaway, or delivery orders
+Assign orders to tables or customers
+Track order status (Pending → Preparing → Served → Completed)
+Integrate kitchen display system (KDS)
+💳 C. Billing & Payments
+Auto-generate bills with tax & service charge
+Support multiple payment methods (cash, card, online)
+Daily revenue reports
+Tip handling and invoice printing
+📦 D. Inventory Management
+Track stock levels for ingredients and supplies
+Auto-alert for low-stock items
+Vendor/supplier management
+📅 E. Reservation System
+Table booking (with date, time, number of guests)
+Confirmation via email/SMS
+Real-time table availability view
+👨‍🍳 F. Staff Management
+Add/edit employee profiles
+Assign shifts and roles
+Attendance & payroll tracking
+📈 G. Reports & Analytics
+Sales reports (daily, weekly, monthly)
+Best-selling dishes
+Customer feedback summary
+Profit & expense overview
+🛍️ H. Online Ordering (Optional)
+Customer login/signup
+Browse menu, add to cart, place order
+Real-time order tracking
+Delivery management
+⭐ I. Feedback & Reviews
+Customers can rate dishes/service
+Admin can view and respond to reviews
+🔒 J. Authentication & Security
+Role-based login (Admin/Staff/Customer)
+Password reset, OTP verification
+Secure payment gateway integration
